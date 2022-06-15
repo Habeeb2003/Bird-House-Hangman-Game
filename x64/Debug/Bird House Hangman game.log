@@ -1,0 +1,6 @@
+﻿  birdHouse.cpp
+C:\Users\USER\source\repos\Bird House Hangman game\birdHouse.cpp(132,34): warning C4267: '=': conversion from 'size_t' to 'unsigned short', possible loss of data
+  Main.cpp
+C:\Users\USER\source\repos\Bird House Hangman game\Main.cpp(5,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Bird House Hangman game.vcxproj -> C:\Users\USER\source\repos\Bird House Hangman game\x64\Debug\Bird House Hangman game.exe
